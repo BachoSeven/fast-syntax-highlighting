@@ -61,7 +61,7 @@ zstyle :plugin:fast-syntax-highlighting theme default
 : ${FAST_HIGHLIGHT_STYLES[builtin]:=fg=green}
 : ${FAST_HIGHLIGHT_STYLES[function]:=fg=green}
 : ${FAST_HIGHLIGHT_STYLES[command]:=fg=green}
-: ${FAST_HIGHLIGHT_STYLES[precommand]:=fg=green,underline}
+: ${FAST_HIGHLIGHT_STYLES[precommand]:=fg=green}
 : ${FAST_HIGHLIGHT_STYLES[commandseparator]:=none}
 : ${FAST_HIGHLIGHT_STYLES[hashed-command]:=fg=green}
 : ${FAST_HIGHLIGHT_STYLES[path]:=fg=magenta}
